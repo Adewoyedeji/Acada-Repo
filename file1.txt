@@ -1,0 +1,3 @@
+Hello
+
+This is our first file created in our initialized local git repository.
